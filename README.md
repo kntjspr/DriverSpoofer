@@ -7,6 +7,7 @@ The problem is that they can determine when you're lying by analyzing the driver
 When your machine is discovered as having virtual cameras or a spoofing device installed, certain websites (usually anti-fraud algorithms) will flag it as fraudalent.  
 
 Screenshot 1: I've previously spoofed OBS Virtual camera and renamed it "Logitech Streamcam" using conventional techniques. 
+
 ![image](https://user-images.githubusercontent.com/65537922/158051612-979f276d-b8d8-4226-a7fb-f44f6c5c0158.png)
 
 Screenshot 2: However, the spoofing strategy did not work. OBS Cam has still been detected by the website, why? because it examines the driver parameters. 
