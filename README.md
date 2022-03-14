@@ -1,5 +1,5 @@
 # DriverSpoofer
-DriverSpoofer is an utility that generates falsified driver data to prevent privacy-invading websites from gathering your device data without actually being detected. 
+DriverSpoofer is a utility that generates falsified driver data to prevent privacy-invading websites from gathering your device data without actually being detected. 
 
 ## Information
 Websites may now detect system information such as the number of microphones and webcams you have and whether they are virtual or real.
