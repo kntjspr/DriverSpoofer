@@ -15,5 +15,5 @@ Screenshot 2: However, the spoofing strategy did not work. OBS Cam has still bee
 ![Screenshot](https://user-images.githubusercontent.com/65537922/158051353-2d95836d-dc5c-41f5-9a8b-ea1183940aa0.png)
 
 
-## Coming Soon
-Work in progress. The source code and release will be published soon. 
+## Discontinued
+This repository will be moved to a brand new github organization account. [Contact me for more details.](www.github.com/kntjspr/kntjspr)
